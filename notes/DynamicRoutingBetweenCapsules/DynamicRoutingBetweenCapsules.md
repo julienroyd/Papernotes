@@ -1,9 +1,9 @@
 # Dynamic Routing Between Capsules
 #### Sabour, Frosst, Hinton (2017)
 
-The authors introduce a new kind of network, currently applied to vision tasks, that is designed to overcome some difficulties met by the now dominant CNNs. This new architecture creates 
+The authors introduce a new kind of network, currently applied to vision tasks, that is designed to overcome some difficulties met by the now dominant CNNs.
 
-**Keypoints**
+## Keypoints
 * Capsules : a group of neurons whose activity vector represents the instanciation parameters of a specific type of entity.
   * Their length represents a probability that the entity exists at that spatial location.
   * Their orientation (dimensions) represent the instanciation parameters themselves.
@@ -16,7 +16,7 @@ The authors introduce a new kind of network, currently applied to vision tasks, 
 
 ![CapsNet](CapsNet.PNG)
 
-**Results**
+## Results
 * Very good at classification on MNIST (and some other datasets)
 * Much better at segmentation because of the "voting system" between capsule layers.
 * More robust to affine transformations
