@@ -8,6 +8,6 @@ Bla bla bla bla
 * bla
 * Bla bla
 
-![](CapsNet.png)
+![CapsNet](CapsNet.png)
 
-![](MultiMNIST_segmentation)
+![Segmentation](MultiMNIST_segmentation.png)
