@@ -3,7 +3,7 @@
 
 The authors introduce a simple trick, *Conditional Instance Normalization*, that allows to train a model to perform style transfer from a set of N different styles, or a combination of them.
 
-![Classic Style Transfer Network](styleTransferNet.PNG)
+<img src="styleTransferNet.PNG" width="40%">
 ![Conditional Instance Normalization](conditionalInstanceNormalization.PNG =250)
 
 ### Keypoints
