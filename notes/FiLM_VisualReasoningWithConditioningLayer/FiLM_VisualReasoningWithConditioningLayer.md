@@ -19,8 +19,8 @@ This method allows to manipulate a neural network's intermediate features in a s
 <table>
 	<tr>
 		<td>
-			<img src="film.PNG" width="30%">
-			<img src="model.PNG" width="30%">
+			<img src="film.PNG" width="40%">
+			<img src="model.PNG" width="40%">
 		</td>
 	</tr>
 </table>
