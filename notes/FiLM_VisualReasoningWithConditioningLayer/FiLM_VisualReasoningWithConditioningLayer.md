@@ -16,7 +16,7 @@ This method allows to manipulate a neural network's intermediate features in a s
 	* Gamma and beta are computed based on an input example. This input could either be the same OR different between the FiLM-generator and the FiLM-ed net. This allows, for example, to influence the computation of an image in a CNN based on a question fed to a RNN.
 	* Gamma is responsible for most of the conditionning effect (figure 7)
 
-<table>
+<table align="center">
 	<tr>
 		<td>
 			<img src="film.PNG" width="40%">
