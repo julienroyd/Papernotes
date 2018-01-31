@@ -21,10 +21,10 @@ In the classic Style Transfer Networks, a convolutional net is trained to genera
 Many styles probably share some degree of computation (this sharing is thrown away when you train N networks for N styles).
 
 ### Keypoints
-* **Conditional Instance Normalization** : consists of applying a style specific scaling and shifting transformation to the normalized activations of each layer (nor clear if this transformation is applied to every layer or only input layer).
- * Each style image is therefore represented aa a point in an embedding space
- * It is this embedding representation that allows to combine different styles
-* **Most parameters are shared accross styles** : only the embedding matrix represents only about 0.2% of the network's parameters 
+* **Conditional Instance Normalization** : consists of applying a style specific scaling and shifting transformation to the normalized activations of each layer (not clear if this transformation is applied to every layer or only input layer).
+	* Each style image is therefore represented as a point in an embedding space
+	* It is this embedding representation that allows to combine different styles
+* **Most parameters are shared accross styles** : the embedding matrix represents only about 0.2% of the network's parameters 
 
 <img src="conditionalInstanceNormalization.PNG" width="60%">
 
