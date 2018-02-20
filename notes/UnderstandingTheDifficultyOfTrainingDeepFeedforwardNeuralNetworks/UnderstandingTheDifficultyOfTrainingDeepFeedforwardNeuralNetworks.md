@@ -35,6 +35,6 @@ Normalized Initialization Properties :
 <img src="gradients.PNG" width="60%">
 
 ### Conclusions
-* Bla bla
-
-![demo](demo.PNG)
+* Use tanh rather than sigmoid
+* Use normalized initialization rather than standard
+* None of that really matter now thanks to BatchNorm
