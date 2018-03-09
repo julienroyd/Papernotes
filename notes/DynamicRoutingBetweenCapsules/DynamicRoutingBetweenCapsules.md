@@ -17,7 +17,7 @@ The authors introduce a new kind of network, currently applied to vision tasks, 
 ![CapsNet](CapsNet.PNG)
 
 ### Results
-* Very good at classification on MNIST (and some other datasets)
+* State of the art at classification on MNIST (and some other datasets) and for overlapping digits
 * Much better at segmentation because of the "voting system" between capsule layers.
 * More robust to affine transformations
 
