@@ -40,7 +40,7 @@ Five increasingly interesting experiments have been realised. NTM uses its exter
 
 1. **Copy** - copy a long input sequence (verify if NTM can effectively adress, write and read to its memory)
 
-2. **Repeat Copy** - copy a short input sequence for a specified number of times (verify if NTM can implement nested funciton *for loop*)
+2. **Repeat Copy** - copy a short input sequence for a specified number of times (verify if NTM can implement nested function)
 
 3. **Associative Recall** - takes a long input sequence and output the next-element of a queried-element (verify if NTM can use content-based and location-based adressing in a combined fashion)
 
