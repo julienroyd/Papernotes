@@ -26,7 +26,7 @@ The memory is a matrix **M** of shape (N x M), where N is the number of memory l
 		<td>
 			<center>
 			<img src="architecture.PNG" width="40%">
-			<img src="adressing.PNG" width="40%">
+			<img src="adressing.PNG" width="80%">
 			</center>
 		</td>
 	</tr>
