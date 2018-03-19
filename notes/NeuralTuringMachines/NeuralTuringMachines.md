@@ -48,7 +48,8 @@ Five increasingly interesting experiments have been realised. NTM uses its exter
 
 5. 
 
-![copy task](copy_process.PNG)
+<div style="text-align:center"><img src ="copy_process" /></div>
+
 
 ### Main conclusions
 
