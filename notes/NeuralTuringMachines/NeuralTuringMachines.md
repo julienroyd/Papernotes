@@ -38,21 +38,18 @@ The memory is a matrix **M** of shape (N x M), where N is the number of memory l
 
 Five increasingly interesting experiments have been realised. NTM uses its external memory and performs well in all of them.
 
-1. 
+1. **Copy** - copy a long input sequence (verify if NTM can effectively adress, write and read to its memory)
 
-2. 
+2. **Repeat Copy** - copy a short input sequence for a specified number of times (verify if NTM can implement nested funciton *for loop*)
 
-3. 
+3. **Associative Recall** - takes a long input sequence and output the next-element of a queried-element (verify if NTM can use content-based and location-based adressing in a combined fashion)
 
 4. 
 
 5. 
 
 
-<img src="copy_process.PNG" width="80%" align="middle">
-
-Normalized Initialization Properties :
-* Maintains the variance of forward-propagated activations and back-propagated gradients across layers
+<img src="copy_process.PNG" width="60%" align="middle">
 
 ### Main conclusions
 
