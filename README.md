@@ -2,6 +2,8 @@
 
 
 ### Winter 2018
+* [InfoGAN : Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](notes/InfoGAN/InfoGAN.md) &mdash; *Chen, Duan, Houthooft Schuman Sutskever, Abeel* [[arXiv](https://arxiv.org/abs/1606.03657)]
+
 * [Neural Turing Machines](notes/NeuralTuringMachines/NeuralTuringMachines.md) &mdash; *Graves, Wayne, Danihelka* [[arXiv](https://arxiv.org/abs/1410.5401)]
 
 * [Understanding The Difficulty Of Training Deep Feedforward Neural Networks](notes/UnderstandingTheDifficultyOfTrainingDeepFeedforwardNeuralNetworks/UnderstandingTheDifficultyOfTrainingDeepFeedforwardNeuralNetworks.md) &mdash; *Glorot, Bengio* [[PMLR](http://proceedings.mlr.press/v9/glorot10a.html)]
