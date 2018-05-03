@@ -21,8 +21,8 @@ The authors train Rainbow and the 6 variants of DQN on 57 Atari games. Rainbow p
 	<tr>
 		<td>
 			<center>
-			<img src="Raibow1.PNG" width="50%">
-			<img src="Raibow2.PNG" width="50%">
+			<img src="Raibow1.PNG" width="40%">
+			<img src="Raibow2.PNG" width="40%">
 			</center>
 		</td>
 	</tr>
