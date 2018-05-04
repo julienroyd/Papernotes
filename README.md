@@ -2,6 +2,8 @@
 
 
 ### Summer 2018
+* [Adversarial Policy Gradient for Alternating Markov Games](notes/AdversarialPolicyGradientforAlternatingMarkovGames/AdversarialPolicyGradientforAlternatingMarkovGames.md) &mdash; *Gao, Müller, Hayward* [[ICLR](https://openreview.net/forum?id=ByINFNJDz)]
+
 * [Emergent Complexity via Multi-Agent Competition](notes/EmergentComplexityViaMultiAgentCompetition/EmergentComplexityViaMultiAgentCompetition.md) &mdash; *Bansal, Pachocki, Sidor, Stskever, Mordach* [[ICLR](https://arxiv.org/abs/1710.03748)]
 
 * [Rainbow : Combining Improvements in Deep Reinforcement Learning](notes/Rainbow/Rainbow.md) &mdash; *Hessel, Silver et al.* [[arXiv](https://arxiv.org/abs/1710.02298)]
