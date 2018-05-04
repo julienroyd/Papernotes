@@ -3,7 +3,7 @@
 
 ![environments](fig1.PNG)
 
-In this work, the authors create 4 different competition environments (*Run to goal*, *You shall not pass*, *Sumo*, *Kiand and defend*), to train an agent using adversarial learning. Their main contribution is the sharing of 4 important tricks that are especially important in a competition setting.
+In this work, the authors create 4 different competition environments, to train an agent using adversarial learning. Their main contribution is the sharing of 4 important tricks that are especially important in a competition setting.
 
 **Main statement :** Show that comptetitive multi-agent training provides a *natural curriculum* during learning (opponent is always the right strength) which allows agents to learn complex behaviors.
 
