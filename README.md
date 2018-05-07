@@ -2,7 +2,7 @@
 
 
 ### Summer 2018
-* [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](notes/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments/ContinuousAdaptationviaMeta-LearninginNonstationaryandCompetitiveEnvironments.md) &mdash; *Al-Shedivat, Abbeel et al.* [[arXiv](https://arxiv.org/abs/1710.03641)]
+* [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](notes/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments.md) &mdash; *Al-Shedivat, Abbeel et al.* [[arXiv](https://arxiv.org/abs/1710.03641)]
 
 * [Adversarial Policy Gradient for Alternating Markov Games](notes/AdversarialPolicyGradientforAlternatingMarkovGames/AdversarialPolicyGradientforAlternatingMarkovGames.md) &mdash; *Gao, Müller, Hayward* [[ICLR](https://openreview.net/forum?id=ByINFNJDz)]
 
