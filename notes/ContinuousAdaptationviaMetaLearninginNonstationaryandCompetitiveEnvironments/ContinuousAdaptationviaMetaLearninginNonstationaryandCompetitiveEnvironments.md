@@ -7,7 +7,7 @@ In this work, the authors propose a gradient-based meta-learning approach to con
 
 **But**, seeing nonstationnarity from this perspective consequently places the agent in a few-shot regime (it only has a few steps/episodes to train on this pseudo-stationary environment before it changes again). This motivates the use of meta-learning, which is specializes in transferring knowledge from related tasks to perform better in a few-shot setting.
 
-### Technical Approach
+### Theoretical Approach
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *This is the bulk of the paper.*
 
