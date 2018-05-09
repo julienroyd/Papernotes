@@ -3,7 +3,7 @@
 
 In this work, the authors propose a gradient-based meta-learning approach to continuous earning in nonstationary environments (e.g. competitive multi-agent learning). The agent has to adapt continuously, both at training and execution time.
 
-**Key Idea :** View nonstationarity as a sequence of stationary tasks, and train agents to *exploit dependancies between consecutive tasks*. Like so, they might be able to handle similar nonstationarities at execution time (test time).
+**Key Idea :** View nonstationarity as a sequence of stationary tasks, and train agents to *exploit dependancies between consecutive tasks*. Like so, the agent might be able to handle similar nonstationarities at execution time (test time).
 
 **But**, seeing nonstationnarity from this perspective consequently places the agent in a few-shot regime (it only has a few steps/episodes to train on this pseudo-stationary environment before it changes again). This motivates the use of meta-learning, which is specializes in transferring knowledge from related tasks to perform better in a few-shot setting.
 
