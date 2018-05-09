@@ -13,13 +13,11 @@ In this work, the authors propose a gradient-based meta-learning approach to con
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *I will need to give this paper a second pass before being able to explain the relevant details of their mathematical approach*
 
-### Other relevant details
-
-#### Bias
+### Results
 
 Their method performs better than the other adaptation methods they compared with for trhe few-shot setting, but does not improve when going from the few-shot to regular training regime. They suggest that "the meta-learned strategy acquires a particular bias at training time that allows it to perform better from limited experience but also limits its capacity of utilizing more data". **(important limitation)**
 
-#### On their training procedure to compare different algorithms
+### On their training procedure to compare different algorithms
 
 * **Pretained agents for static curriculum :** They pre-train agents by self-play, snapshot their policy as training goes on, and then train their true *agent-of-interest* against those pre-trained agent, but only for a few episodes per snapshot. This allows for a controlled training curriculum that end up creating *agents-of-interest* of balanced forces. Training these *agents-of-interest* independantly by self-play end up creating an unbalanced selection of agents (some are much stronger than others). **I think this is a good idea for comparing different algorithms particularities that have nothing to do with self-play schedule.**
 
