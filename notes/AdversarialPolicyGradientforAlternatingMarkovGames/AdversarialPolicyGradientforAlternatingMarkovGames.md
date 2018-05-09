@@ -8,7 +8,7 @@ In this paper, the authors conveniently review Markov Decision Processes (MDP) a
 3. For each episode, run *k* rollouts starting from its sampled (s,a) pair, and save the minimal return *w* from those rollouts
 4. Use *w* as critic value-estimation for this (s,a) pair
 
-*Note:* The authors suggest using the minimum instead of mean only for AMG and do not metion that this could be helpful for regular MDP.
+*Note:* The authors suggest using the minimum instead of mean for AMG only and do not mention that this could be helpful in regular MDPs.
 
 ### Other interesting notions
 
