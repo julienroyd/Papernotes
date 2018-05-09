@@ -10,6 +10,7 @@ In this work, the authors propose a gradient-based meta-learning approach to con
 ### Technical Approach
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *This is the bulk of the paper.*
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) *However, I will need to give this paper a second pass before being able to explain the relevant details of their mathematical approach*
 
 ### Other relevant details
