@@ -2,6 +2,8 @@
 
 
 ### Summer 2018
+* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](notes/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments.md) &mdash; *Lowe et al.* [[NIPS](http://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments)]
+
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](notes/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments.md) &mdash; *Al-Shedivat, Abbeel et al.* [[arXiv](https://arxiv.org/abs/1710.03641)]
 
 * [Adversarial Policy Gradient for Alternating Markov Games](notes/AdversarialPolicyGradientforAlternatingMarkovGames/AdversarialPolicyGradientforAlternatingMarkovGames.md) &mdash; *Gao, Müller, Hayward* [[ICLR](https://openreview.net/forum?id=ByINFNJDz)]
