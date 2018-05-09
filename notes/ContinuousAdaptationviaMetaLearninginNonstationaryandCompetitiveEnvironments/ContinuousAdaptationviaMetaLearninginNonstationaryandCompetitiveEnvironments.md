@@ -19,7 +19,7 @@ In this work, the authors propose a gradient-based meta-learning approach to con
 
 * **Pretained agents for static curriculum :** They pre-train agents by self-play, snapshot their policy as training goes on, and then train their true *agent-of-interest* against those pre-trained agent, but only for a few episodes per snapshot. This allows for a controlled training curriculum that end up creating *agents-of-interest* of balanced forces. Training these *agents-of-interest* independantly by self-play end up creating an unbalanced selection of agents (some are much stronger than others). **I think this is a good idea for comparing different algorithms particularities that have nothing to do with self-play schedule.**
 
-* **Training pools** : At each iteration k, they :
+* **Training pools** : At each iteration *k*, they :
   1. Randomly select an pre-trained opponent from the training pool
-  2. Sample a version of the opponent's policy (among its available snapshot) in [1, k]
+  2. Sample a version of the opponent's policy snapshot in [1, *k*]
   3. Rollout against that opponent (which is used to train the *agent-of-interest*)
