@@ -6,7 +6,7 @@ Policy-Gradient methods (REINFORCE, Actor-Critic) already struggle with high var
 ![environments](fig2.PNG)
 
 **Key idea :** Centralized Training and Decentraziled Execution
-* This means that an agent *i* uses a *global observation* of the environment at training time, but only has access to more restricted *local observations* at test time. They implement that by using a *Global Value-Network* (only used for training) which takes as input an observation vector *x* (which contains global information about the environment and local observations of our agent) and the selected actions of each other agents *a1*, *a2*, ..., *aN*.
+* This means that an agent *i* uses a *global observation* of the environment at training time, but only has access to more restricted *local observations* at test time. They implement that by using a *Global Value-Network* (only used for training) which takes as input an observation vector *x* (which contains global information about the environment and local observations of our agent) and the selected actions of each other agents *a1*, *a2*, ..., *aN*. **Drawback:** the size of the Critic input space increase linearly with the number of agents.
 
 **Why it works :** They suggest that naïve applications on RL methods to multi-agent problems struggle because of the nonstationarity of the environment (from the point of view a any single agent), which is inherent to having multiple learning agents interacting. Using the Global Value-Network makes the environment stationary again from the point of view of a single agent.
 
@@ -14,11 +14,10 @@ Policy-Gradient methods (REINFORCE, Actor-Critic) already struggle with high var
 
 ### Why not doing that with Deep Q-Learning ?
 
-Q-Learning can be naïvely applied to multi-agent settings by having one Q-Value-Network for each agent *i*. However, for the same stationarity issue, this violates the Markov assumptions required for convergence of Q-Learning. Also, it is not straightforward to use a different unput space at training and test time with that approach (whereas with Actor-Critic we simply drop the Critic at test time, like usual). Also, the Experience Replay Buffer cannot be used in this setting (![#f03c15](https://placehold.it/15/f03c15/000000?text=+)*not sure to understand exactly why*)
+Q-Learning can be naïvely applied to multi-agent settings by having one Q-Value-Network for each agent *i*. However, for the same stationarity issue, this violates the Markov assumptions required for convergence of Q-Learning. Also, it is not straightforward to use a different unput space at training and test time with that approach (whereas with Actor-Critic we simply drop the Critic at test time, like usual). Also, the Experience Replay Buffer cannot be used in this setting (???*not sure to understand exactly why*???)
 
 ### Ensemble of policies  (other relevant trick)
 
-
-
+To obtain multi-agent policies that are more robust to the changes in the policies of their competing agents (bref, to avoird overfitting the opponent), they train a collection of *K* different subpolicies (3 is a reasonable value for *K*). At each iteration, they randomly select one of the sub-policy for the agent to follow for that episode. They also need to maintain a distinct replay buffer for each sub-policy.
 
 ![results](fig3.PNG)
