@@ -5,7 +5,7 @@ Policy-Gradient methods (REINFORCE, Actor-Critic) already struggle with high var
 
 ![environments](fig2.PNG)
 
-**Key idea :** Centralized Training and Decentraziled Execution
+**Key idea :** Centralized Training and Decentralized Execution
 * This means that an agent *i* uses a *global observation* of the environment at training time, but only has access to more restricted *local observations* at test time. They implement that by using a *Global Value-Network* (only used for training) which takes as input an observation vector *x* (which contains global information about the environment and local observations of our agent) and the selected actions of each other agents *a1*, *a2*, ..., *aN*. 
 * **Drawback:** the size of the Critic input space increases linearly with the number of agents.
 
