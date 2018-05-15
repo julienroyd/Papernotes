@@ -15,7 +15,7 @@ Policy-Gradient methods (REINFORCE, Actor-Critic) already struggle with high var
 
 ### Why not doing that with Deep Q-Learning ?
 
-Q-Learning can be naïvely applied to multi-agent settings by having one Q-Value-Network for each agent *i*. However, for the same stationarity issue, this violates the Markov assumptions required for convergence of Q-Learning. Also, it is not straightforward to use a different unput space at training and test time with that approach (whereas with Actor-Critic we simply drop the Critic at test time, like usual). Also, the Experience Replay Buffer cannot be used in this setting (???*not sure to understand exactly why*???)
+Q-Learning can be naïvely applied to multi-agent settings by having one Q-Value-Network for each agent *i*. However, for the same stationarity issue, this violates the Markov assumptions required for convergence of Q-Learning. Also, it is not straightforward to use a different unput space at training and test time with that approach (whereas with Actor-Critic we simply drop the Critic at test time, like usual). Also, the Experience Replay Buffer cannot be used in this setting (because the environment is highly nonstationary, it does not make sense to keep learning on past transitions).
 
 ### Ensemble of policies  (other relevant trick)
 
