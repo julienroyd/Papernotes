@@ -4,7 +4,6 @@
 In this work ...
 
 
-
-![environment](figure1.PNG)
+<img src="figure1.PNG" width="40%">
 
 ![results](figure2.PNG)
