@@ -3,7 +3,15 @@
 
 In this work ...
 
-
-<img src="figure1.PNG" width="40%">
-
-![results](figure2.PNG)
+<center>
+<table>
+	<tr>
+		<td>
+			<center>
+			<img src="figure1.PNG" width="40%">
+			<img src="figure2.PNG" width="40%">
+			</center>
+		</td>
+	</tr>
+</table>
+</center>
