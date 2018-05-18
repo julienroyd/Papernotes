@@ -2,6 +2,8 @@
 
 
 ### Summer 2018
+* [Do Deep Reinforcement Learning Agents Model Intentions?](notes/DoDeepRLagentsModelIntention/DoDeepRLagentsModelIntention.md) &mdash; *Martiisen et al.* [[arXiv](https://arxiv.org/abs/1805.06020v1)]
+
 * [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](notes/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments.md) &mdash; *Lowe et al.* [[NIPS](http://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments)]
 
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](notes/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments.md) &mdash; *Al-Shedivat et al.* [[arXiv](https://arxiv.org/abs/1710.03641)]
