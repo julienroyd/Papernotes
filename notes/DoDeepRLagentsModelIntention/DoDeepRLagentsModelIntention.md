@@ -8,8 +8,8 @@ In this work ...
 	<tr>
 		<td>
 			<center>
-			<img src="figure1.PNG" width="40%">
-			<img src="figure2.PNG" width="40%">
+			<img src="figure1.PNG" width="30%">
+			<img src="figure2.PNG" width="80%">
 			</center>
 		</td>
 	</tr>
