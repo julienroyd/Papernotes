@@ -19,6 +19,6 @@ Their best performing algorithm is the Asynchrnous Advantage Actor-Critic (A3C).
 
 ### Other interesting tricks
 
-* Use different exploration policy for each different actor-learner threads (they just randomly sample the epsilon parameter for each episode)
+* Use different exploration policy for each different actor-learner threads (randomly sample the epsilon param for each episode)
 * For A3C, all non-output layers are shared between ACtor and Critic (pretty standard, but still)
 * They add an Entropy Regularization term to the Actor objective function for A3C which they say "discourages premature convergence to suboptimal deterministic policies".
