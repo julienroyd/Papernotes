@@ -2,6 +2,8 @@
 
 
 ### Summer 2018
+* [Mean Actor Critic](notes/MeanActorCritic/MeanActorCritic.md) &mdash; *Asadi et al.* [[arXiv](https://arxiv.org/abs/1709.00503)]
+
 * [Sample Efficient Actor-Critic with Experience Replay](notes/SampleEfficientActorCriticwithExperienceReplay/SampleEfficientActorCriticwithExperienceReplay.md) &mdash; *Wang et al.* [[ICLR](https://openreview.net/forum?id=HyM25Mqel)]
 
 * [Asynchronous Methods for Deep Reinforcement Learning](notes/AsynchronousMethodsforDeepReinforcementLearning/AsynchronousMethodsforDeepReinforcementLearning.md) &mdash; *Mnih et al.* [[arXiv](https://arxiv.org/abs/1602.01783)]
