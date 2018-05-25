@@ -3,7 +3,7 @@
 
 In this work the authors suggest a simple modification to the actor-critic framework: instead of computing the estimated gradient using only the actually sampled action, they compute the average over all possible actions.
 
-[update](update.PNG)
+![update](update.PNG)
 
 **Note:** They apply this approach only to discrete control problems. A very similar approach offers a deeper theoretical analysis and extend the method to continuous control (see [Expected Policy Gradients (EPG)](https://arxiv.org/abs/1706.05374)).
 
@@ -18,4 +18,4 @@ In this work the authors suggest a simple modification to the actor-critic frame
 ### Other Tricks
 * They use an entropy term in the objective function to prevet premature convergence (only for Atari experiments)
 
-[results](fig2.PNG)
+![results](fig2.PNG)
