@@ -2,6 +2,8 @@
 
 
 ### Summer 2018
+* [Bridging the Gap Between Value and Policy Based Reinforcement Learning](notes/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning.md) &mdash; *Nachum et al.* [[NIPS](http://papers.nips.cc/paper/6870-bridging-the-gap-between-value-and-policy-based-reinforcement-learning)]
+
 * [Mean Actor Critic](notes/MeanActorCritic/MeanActorCritic.md) &mdash; *Asadi et al.* [[arXiv](https://arxiv.org/abs/1709.00503)]
 
 * [Sample Efficient Actor-Critic with Experience Replay](notes/SampleEfficientActorCriticwithExperienceReplay/SampleEfficientActorCriticwithExperienceReplay.md) &mdash; *Wang et al.* [[ICLR](https://openreview.net/forum?id=HyM25Mqel)]
