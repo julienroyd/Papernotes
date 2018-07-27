@@ -1,4 +1,4 @@
-# Neural Turing Machines
+# Neural Turing Machines (NTM)
 #### Graves, Wayne, Danihelka (2014)
 
 The authors develop one of the first approaches for incorporating external memory to neural network systems. They show that this model outperforms LSTM at simple tasks that require using memory. NTM is even shown to implement simple algorithms in a very similar way to a human would do.
