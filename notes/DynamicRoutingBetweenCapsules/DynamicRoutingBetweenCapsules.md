@@ -1,4 +1,4 @@
-# Dynamic Routing Between Capsules
+# Dynamic Routing Between Capsules (Caps-Net)
 #### Sabour, Frosst, Hinton (2017)
 
 The authors introduce a new kind of network, currently applied to vision tasks, that is designed to overcome some difficulties met by the now dominant CNNs.
