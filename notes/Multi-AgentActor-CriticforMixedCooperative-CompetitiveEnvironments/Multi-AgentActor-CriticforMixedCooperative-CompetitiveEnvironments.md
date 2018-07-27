@@ -1,4 +1,4 @@
-# Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+# Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments (MADDPG)
 #### Lowe *et al.* (2018)
 
 Policy-Gradient methods (REINFORCE, Actor-Critic) already struggle with high variance of estimated gradients. Well guess what, the probability of estimating a gradient of the correct direction descreases *exponentially* as the number of learning agents grows in the environment. In thiswork, the authors propose a new algorithm, **Multi-Agent Deep Deterministic Policy Gradient (MADDPG)**, that performs better on multi-agent RL problems than a naïve application of PG methods to multi-agent.
