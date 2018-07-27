@@ -1,4 +1,4 @@
-# Sample Efficient Actor-Critic with Experience Replay
+# Sample Efficient Actor-Critic with Experience Replay (ACER)
 #### Wang *et al.* (2017)
 
 This work is based on the following approaches :
