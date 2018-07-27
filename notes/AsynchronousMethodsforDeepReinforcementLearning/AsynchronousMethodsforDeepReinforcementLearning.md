@@ -1,4 +1,4 @@
-# Asynchronous Methods for Deep Reinforcement Learning
+# Asynchronous Methods for Deep Reinforcement Learning (A3C)
 #### Mnih *et al.* (2016)
 
 In this work, the authors propose Asynchronously train in parallel multiple agents each in their own copy of the environment as an alternative to Experience Replay.
