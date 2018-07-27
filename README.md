@@ -2,19 +2,19 @@
 
 
 ### Summer 2018
-* [Continuous control with deep reinforcement learning](notes/ContinuousControlWithDeepReinforcementLearning/ContinuousControlWithDeepReinforcementLearning.md) &mdash; *Lilicrap et al.* [[arXiv](https://arxiv.org/abs/1509.02971)]
+* [Continuous control with deep reinforcement learning (DDPG)](notes/ContinuousControlWithDeepReinforcementLearning/ContinuousControlWithDeepReinforcementLearning.md) &mdash; *Lilicrap et al.* [[arXiv](https://arxiv.org/abs/1509.02971)]
 
-* [Bridging the Gap Between Value and Policy Based Reinforcement Learning](notes/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning.md) &mdash; *Nachum et al.* [[NIPS](http://papers.nips.cc/paper/6870-bridging-the-gap-between-value-and-policy-based-reinforcement-learning)]
+* [Bridging the Gap Between Value and Policy Based Reinforcement Learning (PCL)](notes/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning.md) &mdash; *Nachum et al.* [[NIPS](http://papers.nips.cc/paper/6870-bridging-the-gap-between-value-and-policy-based-reinforcement-learning)]
 
-* [Mean Actor Critic](notes/MeanActorCritic/MeanActorCritic.md) &mdash; *Asadi et al.* [[arXiv](https://arxiv.org/abs/1709.00503)]
+* [Mean Actor Critic (MAC)](notes/MeanActorCritic/MeanActorCritic.md) &mdash; *Asadi et al.* [[arXiv](https://arxiv.org/abs/1709.00503)]
 
-* [Sample Efficient Actor-Critic with Experience Replay](notes/SampleEfficientActorCriticwithExperienceReplay/SampleEfficientActorCriticwithExperienceReplay.md) &mdash; *Wang et al.* [[ICLR](https://openreview.net/forum?id=HyM25Mqel)]
+* [Sample Efficient Actor-Critic with Experience Replay (ACER)](notes/SampleEfficientActorCriticwithExperienceReplay/SampleEfficientActorCriticwithExperienceReplay.md) &mdash; *Wang et al.* [[ICLR](https://openreview.net/forum?id=HyM25Mqel)]
 
-* [Asynchronous Methods for Deep Reinforcement Learning](notes/AsynchronousMethodsforDeepReinforcementLearning/AsynchronousMethodsforDeepReinforcementLearning.md) &mdash; *Mnih et al.* [[arXiv](https://arxiv.org/abs/1602.01783)]
+* [Asynchronous Methods for Deep Reinforcement Learning (A3C)](notes/AsynchronousMethodsforDeepReinforcementLearning/AsynchronousMethodsforDeepReinforcementLearning.md) &mdash; *Mnih et al.* [[arXiv](https://arxiv.org/abs/1602.01783)]
 
 * [Do Deep Reinforcement Learning Agents Model Intentions?](notes/DoDeepRLagentsModelIntention/DoDeepRLagentsModelIntention.md) &mdash; *Martiisen et al.* [[arXiv](https://arxiv.org/abs/1805.06020v1)]
 
-* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](notes/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments.md) &mdash; *Lowe et al.* [[NIPS](http://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments)]
+* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments (MADDPG)](notes/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments/Multi-AgentActor-CriticforMixedCooperative-CompetitiveEnvironments.md) &mdash; *Lowe et al.* [[NIPS](http://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments)]
 
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](notes/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments/ContinuousAdaptationviaMetaLearninginNonstationaryandCompetitiveEnvironments.md) &mdash; *Al-Shedivat et al.* [[arXiv](https://arxiv.org/abs/1710.03641)]
 
@@ -27,7 +27,7 @@
 ### Winter 2018
 * [InfoGAN : Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](notes/InfoGAN/InfoGAN.md) &mdash; *Chen, Duan, Houthooft Schuman Sutskever, Abeel* [[arXiv](https://arxiv.org/abs/1606.03657)]
 
-* [Neural Turing Machines](notes/NeuralTuringMachines/NeuralTuringMachines.md) &mdash; *Graves, Wayne, Danihelka* [[arXiv](https://arxiv.org/abs/1410.5401)]
+* [Neural Turing Machines (NTM)](notes/NeuralTuringMachines/NeuralTuringMachines.md) &mdash; *Graves, Wayne, Danihelka* [[arXiv](https://arxiv.org/abs/1410.5401)]
 
 * [Understanding The Difficulty Of Training Deep Feedforward Neural Networks](notes/UnderstandingTheDifficultyOfTrainingDeepFeedforwardNeuralNetworks/UnderstandingTheDifficultyOfTrainingDeepFeedforwardNeuralNetworks.md) &mdash; *Glorot, Bengio* [[PMLR](http://proceedings.mlr.press/v9/glorot10a.html)]
 
@@ -35,5 +35,5 @@
 
 * [A Learned Representation for Artistic Styles](notes/LearnedRepresentationForArtisticStyle/LearnedRepresentationForArtisticStyle.md) &mdash; *Dumoulin, Shlens, Kudlur* [[ICLR](https://arxiv.org/abs/1610.07629v5)]
 
-* [Dynamic Routing Between Capsules](notes/DynamicRoutingBetweenCapsules/DynamicRoutingBetweenCapsules.md) &mdash; *Sabour, Frosst, Hinton* [[NIPS](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)]
+* [Dynamic Routing Between Capsules (Caps-Net)](notes/DynamicRoutingBetweenCapsules/DynamicRoutingBetweenCapsules.md) &mdash; *Sabour, Frosst, Hinton* [[NIPS](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules)]
 
