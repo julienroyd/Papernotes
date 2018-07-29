@@ -11,5 +11,5 @@ In this work, they basically just apply Batch Normalization and DQN stabilizatio
 
 * Exploration : they simply add noise sampled from a chosen noise process to the actor's output. They choose their noise generated process to be *temporally correlated* to have a time dependant exploration.
 
-![algorithm](algo.PNG)
+![algorithm](algorithm.PNG)
 
