@@ -2,7 +2,7 @@
 
 
 ### Summer 2018
-* [Continuous control with deep reinforcement learning (DDPG)](notes/ContinuousControlWithDeepReinforcementLearning/ContinuousControlWithDeepReinforcementLearning.md) &mdash; *Lilicrap et al.* [[arXiv](https://arxiv.org/abs/1509.02971)]
+* [Continuous control with deep reinforcement learning (DDPG)](notes/ContinuousControlWithDeepReinforcementLearning/ContinuousControlWithDeepReinforcementLearning.md) &mdash; *Lilicrap et al.* [[ICLR](https://arxiv.org/abs/1509.02971)]
 
 * [Bridging the Gap Between Value and Policy Based Reinforcement Learning (PCL)](notes/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning/BridgingGapBetweenValueAndPolicyBasedReinforcementLearning.md) &mdash; *Nachum et al.* [[NIPS](http://papers.nips.cc/paper/6870-bridging-the-gap-between-value-and-policy-based-reinforcement-learning)]
 
