@@ -3,7 +3,7 @@
 
 In this work, they basically just apply Batch Normalization and DQN stabilization tricks to DPG and obtain a simple and stable off-policy algorithm for continuous and deterministic control that use non-linear function approximation. They show that DDPG can learn good policies in a variety of Mujoco environments, either from low-dimensional or pixel-based observation spaces.
 
-### Main modules :
+### Main features :
 
 * Replay buffer : (like for DQN) decorrelates samples between learning steps and allows minibatch updates (hardware efficient)
 * Target actor and critic networks : (like for DQN) stabilizes learning but also slows learning. They use *soft-updates*.
