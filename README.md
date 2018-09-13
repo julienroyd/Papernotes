@@ -1,5 +1,8 @@
 # Papernotes
 
+### Fall 2018
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML)](notes/ModelAgnosticMetaLearning/ModelAgnosticMetaLearning.md) &mdash; *Finn, Abbeel and Levine* [[arXiv](https://arxiv.org/abs/1703.03400)]
+
 
 ### Summer 2018
 * [Continuous control with deep reinforcement learning (DDPG)](notes/ContinuousControlWithDeepReinforcementLearning/ContinuousControlWithDeepReinforcementLearning.md) &mdash; *Lilicrap et al.* [[ICLR](https://arxiv.org/abs/1509.02971)]
