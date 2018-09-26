@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Fall 2018
+* [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](notes/DeepMimic/DeepMimic.md) &mdash; *Peng, Abbeel, Levine, Van de Panne* [[SIGGRAPH](https://arxiv.org/abs/1804.02717)]
+
 * [Proximal Policy Optimization Algorithms (PPO)](notes/ProximalPolicyOptimizationAlgorithms/ProximalPolicyOptimizationAlgorithms.md) &mdash; *Schulman et al.* [[arXiv](https://arxiv.org/abs/1707.06347)]
 
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML)](notes/ModelAgnosticMetaLearning/ModelAgnosticMetaLearning.md) &mdash; *Finn, Abbeel and Levine* [[arXiv](https://arxiv.org/abs/1703.03400)]
