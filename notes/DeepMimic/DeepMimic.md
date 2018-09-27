@@ -27,10 +27,11 @@ They provide "a framework for physics-based character animation that combines go
 * **Skill selector:** Train a single policy that receives a one-hot vector indicating the task (motion) to try to fit. The agent performs this motion for one complete cycle, during which the imitation-reward is the one corresponding to the selected motion. Once trained, a user could specify (with a controller) which motion to perform. This is a cycle-wise multi-motion technique, appropriate for very different motions (types of jump). 
 * **Composite policy:** Train several policies, each of which are specialized to a specific motion. The actions performed are a weighted average of actions sampled from all those policies. The weights are computed using a Boltzman distribution (softmax with a temperature parameter) over all approximate state values.
 
-### Environment adaptations
-*
-*
-*
+### Robustness and Retargeting
+* **Character retargeting:** They show that their method is robust enough to allow a different character (like a humanoid or a model of Atlas) to learn to perform a motion from the same target frames.
+* **Environment retargeting:** They learn for example a landing motion, performed in MOCAP on flat terrain, and are able to use this learned motion to land after a 2 meters fall (which shows that the learned policy is still robust in different use-case).
+* **Physical retargetting:** They change the gravity strength and show robustness of their policies for such environmental changes.
+* **Robustness to perturbations:** Finally their trained agents are also robust to the application of perturbation forces. This property is expected to come from the noise exploration process during training.
 
 ### Other perks of the paper
 
