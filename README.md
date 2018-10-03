@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Fall 2018
+* [Large Scale GAN Training for High Fidelity Natural Image Synthesis](notes/LargeScaleGANTrainingforHighFidelityNaturalImageSynthesis/LargeScaleGANTrainingforHighFidelityNaturalImageSynthesis.md) &mdash; *Anonymous (double-blind)* [[ICLR (OpenReviews)](https://openreview.net/forum?id=B1xsqj09Fm)]
+
 * [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](notes/DeepMimic/DeepMimic.md) &mdash; *Peng, Abbeel, Levine, Van de Panne* [[SIGGRAPH](https://arxiv.org/abs/1804.02717)]
 
 * [Proximal Policy Optimization Algorithms (PPO)](notes/ProximalPolicyOptimizationAlgorithms/ProximalPolicyOptimizationAlgorithms.md) &mdash; *Schulman et al.* [[arXiv](https://arxiv.org/abs/1707.06347)]
