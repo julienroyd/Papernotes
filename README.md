@@ -1,7 +1,7 @@
 # Papernotes
 
 ### Fall 2018
-* [Generative Adversarial Imitation Learning (GAIL)](notes/GAIL/GAIL.md) &mdash; *Ho, Abbeel* [[NIPS]](https://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning)]
+* [Generative Adversarial Imitation Learning (GAIL)](notes/GAIL/GAIL.md) &mdash; *Ho, Abbeel* [[NIPS](https://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning)]
 
 * [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](notes/VariationalDiscriminatorBottleneck/VariationalDiscriminatorBottleneck.md) &mdash; *Anonymous (double-blind)* [[ICLR (OpenReviews)](https://openreview.net/forum?id=HyxPx3R9tm)]
 
