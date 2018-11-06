@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Fall 2018
+* [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](notes/IntrinsicSocialMotivation/IntrinsicSocialMotivation.md) &mdash; *Jacques et al.* [[arXiv](https://arxiv.org/pdf/1810.08647.pdf)]
+
 * [Generative Adversarial Imitation Learning (GAIL)](notes/GAIL/GAIL.md) &mdash; *Ho, Ermon* [[NIPS](https://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning)]
 
 * [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](notes/VariationalDiscriminatorBottleneck/VariationalDiscriminatorBottleneck.md) &mdash; *Anonymous (double-blind)* [[ICLR (OpenReviews)](https://openreview.net/forum?id=HyxPx3R9tm)]
