@@ -1,5 +1,10 @@
 # Papernotes
 
+### Winter 2019
+* [The Option-Critic architecture](notes/OptionCritic/OptionCritic.md) &mdash; *Bacon, Harb and Precup* [[AAAI](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14858)]
+
+* [Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](notes/BAD/BAD.md) &mdash; *Foerster et al.* [[arXiv](https://arxiv.org/abs/1811.01458)]
+
 ### Fall 2018
 * [Multi-Agent Common Knowledge Reinforcement Learning (MACKRL)](notes/MACKRL/MACKRL.md) &mdash; *Foerster, al* [[arXiv](https://arxiv.org/abs/1810.11702)]
 
