@@ -1,7 +1,7 @@
 # Papernotes
 
 ### Summer 2019
-* [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with Stochastic Actor (SAC)](notes/SoftActorCritic/SoftActorCritic.md) &mdash; *Haarnoja, Zhou, Abbeel and Levine* [[arXiv](https://arxiv.org/abs/1801.01290)]
+* [Soft Actor-Critic (SAC)](notes/SoftActorCritic/SoftActorCritic.md) &mdash; *Haarnoja, Zhou, Abbeel and Levine* [[arXiv](https://arxiv.org/abs/1801.01290)]
 
 ### Winter 2019
 * [The Option-Critic architecture](notes/OptionCritic/OptionCritic.md) &mdash; *Bacon, Harb and Precup* [[AAAI](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14858)]
