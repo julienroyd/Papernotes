@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Summer 2019
+* [Meta-Reinforcement Learning of Structured Exploration Strategies](notes/MetaReinforcementLearningStructuredExplorationStrategies/MetaReinforcementLearningStructuredExplorationStrategies.md) &mdash; *Gupta et al.* [[arXiv](https://arxiv.org/abs/1802.07245)]
+
 * [Learning Latent Plans from Play](notes/LearningLatentPlansFromPlay/LearningLatentPlansFromPlay.md) &mdash; *Lynch et al.* [[arXiv](https://arxiv.org/abs/1903.01973)]
 
 * [Soft Actor-Critic (SAC)](notes/SoftActorCritic/SoftActorCritic.md) &mdash; *Haarnoja, Zhou, Abbeel and Levine* [[arXiv](https://arxiv.org/abs/1801.01290)]
