@@ -1,7 +1,7 @@
 # Meta-Reinforcement Learning of Structured Exploration Strategies
 #### Gupta, Mendonca, Liu, Abbeel, Levine (2018)
 
-In this work, the authors augment [MAML](notes/ModelAgnosticMetaLearning/ModelAgnosticMetaLearning.md) algorithm (gradient-based meta-learning algorithm) with a latent exploration space meta-learning objective. This allows the agent to learn from prior (dense reward) tasks how to explore in a more strutured way (temporally coherent exploration rather than simple random noise exploration) for similar tasks with sparse reward.
+In this work, the authors augment [MAML](../notes/ModelAgnosticMetaLearning/ModelAgnosticMetaLearning.md) algorithm (gradient-based meta-learning algorithm) with a latent exploration space meta-learning objective. This allows the agent to learn from prior (dense reward) tasks how to explore in a more strutured way (temporally coherent exploration rather than simple random noise exploration) for similar tasks with sparse reward.
 
 *"Both the policy and the latent space are trained through meta-learning to explicitly provide for fast adaptation to new tasks."*
 
