@@ -1,7 +1,7 @@
 # Papernotes
 
 ### Summer 2019
-* [A Hitchhiker's Guide to Statistical Comparisons of Reinforcement Learning Algorithms](notes/StatisticalComparisonsOfReinforcementLearningAlgorithms/StatisticalComparisonsOfReinforcementLearningAlgorithms.md) &mdash; *Colas, Sigaud, Oudeyer* [[arXiv](https://arxiv.org/abs/1904.06979)]
+* [A Hitchhiker's Guide to Statistical Comparisons of Reinforcement Learning Algorithms](notes/StatisticalComparisonsOfReinforcementLearningAlgorithms/StatisticalComparisonsOfReinforcementLearningAlgorithms.md) &mdash; *Colas, et al.* [[arXiv](https://arxiv.org/abs/1904.06979)]
 
 * [Meta-Reinforcement Learning of Structured Exploration Strategies (MAESN)](notes/MetaReinforcementLearningStructuredExplorationStrategies/MetaReinforcementLearningStructuredExplorationStrategies.md) &mdash; *Gupta et al.* [[arXiv](https://arxiv.org/abs/1802.07245)]
 
