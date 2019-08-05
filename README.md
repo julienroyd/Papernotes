@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Summer 2019
+* [Agent Modeling as Auxiliary Task for Deep Reinforcement Learning](notes/AgentModelingAsAuxiliaryTask/AgentModelingAsAuxiliaryTask.md) &mdash; *Hernandez-Leal, et al.* [[arXiv](https://arxiv.org/abs/1907.09597)]
+
 * [A Hitchhiker's Guide to Statistical Comparisons of Reinforcement Learning Algorithms](notes/StatisticalComparisonsOfReinforcementLearningAlgorithms/StatisticalComparisonsOfReinforcementLearningAlgorithms.md) &mdash; *Colas, et al.* [[arXiv](https://arxiv.org/abs/1904.06979)]
 
 * [Meta-Reinforcement Learning of Structured Exploration Strategies (MAESN)](notes/MetaReinforcementLearningStructuredExplorationStrategies/MetaReinforcementLearningStructuredExplorationStrategies.md) &mdash; *Gupta et al.* [[arXiv](https://arxiv.org/abs/1802.07245)]
