@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Summer 2019
+* [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](notes/CoordinatedExplorationIntrinsicRewardsMultiAgentRL/CoordinatedExplorationIntrinsicRewardsMultiAgentRL.md) &mdash; *Iqbal and Sha* [[arXiv](https://arxiv.org/abs/1905.12127)]
+
 * [Agent Modeling as Auxiliary Task for Deep Reinforcement Learning](notes/AgentModelingAsAuxiliaryTask/AgentModelingAsAuxiliaryTask.md) &mdash; *Hernandez-Leal, et al.* [[arXiv](https://arxiv.org/abs/1907.09597)]
 
 * [A Hitchhiker's Guide to Statistical Comparisons of Reinforcement Learning Algorithms](notes/StatisticalComparisonsOfReinforcementLearningAlgorithms/StatisticalComparisonsOfReinforcementLearningAlgorithms.md) &mdash; *Colas, et al.* [[arXiv](https://arxiv.org/abs/1904.06979)]
