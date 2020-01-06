@@ -1,5 +1,8 @@
 # Papernotes
 
+### Winter 2020
+* [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](notes/ConnectionBetweenGANsInverseRL/ConnectionBetweenGANsInverseRL.md) &mdash; *Finn et al.* [[arXiv](https://arxiv.org/abs/1611.03852)]
+
 ### Summer 2019
 * [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](notes/CoordinatedExplorationIntrinsicRewardsMultiAgentRL/CoordinatedExplorationIntrinsicRewardsMultiAgentRL.md) &mdash; *Iqbal and Sha* [[arXiv](https://arxiv.org/abs/1905.12127)]
 
