@@ -2,7 +2,7 @@
 
 ### Winter 2020
 * [A Reduction of Imitation Learning and Structured Prediction
-to No-Regret Online Learning (DAGGER](notes/Dagger/Dagger.md) &mdash; *Ross et al.* [[arXiv](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)]
+to No-Regret Online Learning (DAGGER)](notes/Dagger/Dagger.md) &mdash; *Ross et al.* [[arXiv](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)]
 
 * [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](notes/ConnectionBetweenGANsInverseRL/ConnectionBetweenGANsInverseRL.md) &mdash; *Finn et al.* [[arXiv](https://arxiv.org/abs/1611.03852)]
 
