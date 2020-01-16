@@ -18,7 +18,7 @@ The algorithm reduces the distributional shift because it labels observations en
 
 ### Theoretical contributions
 
-jhk
+They offer a number of theoretical contributions in the form of garantees for DAgger and bounds on the expected error. (I need to read more about previous work on imitation learning to truly understand these contributions and summarise them)
 
 ### Experiments
 
