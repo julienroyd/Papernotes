@@ -12,7 +12,7 @@ From an implementation perspective, the algorithm is simple and builds on Behavi
   3. use the expert policy to label (pick actions) for the newly collected observations
   4. aggregate (add new observations-actions to the dataset), return to step 1
 
-### The algorithm
+### Limitations
 
 The algorithm reduces the distributional shift because it labels observations encoutered by the learned policy rather than collected by the expert policy, reducing significantly the expected error at execution time. However, this procedure involves several labelling cycles which can be expansive. Also, it assumes possession of the expert policy which in some cases raises the question: why would you train a new policy if you have in your possession the expert policy? In the case of human labelling it makes sense, because say in the case of drone navigation for rescue, labelling is tedious and slow but once you have a good policy, you can deploy many many drones and they all navigate quickly, however, this assumption is still very restrictive for other kind of tasks. 
 
