@@ -3,4 +3,7 @@
 
 In this work, 
 
+
+### Algorithm
+
 ![](GAN_fig1.png)
