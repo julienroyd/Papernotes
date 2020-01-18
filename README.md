@@ -1,6 +1,8 @@
 # Papernotes
 
 ### Winter 2020
+* [Generative Adversarial Nets (GANs)](notes/GANs/GANs.md) &mdash; *Goodfellow et al.* [[NeurIPS](http://papers.nips.cc/paper/5423-generative-adversarial-nets)]
+
 * [A Reduction of Imitation Learning and Structured Prediction
 to No-Regret Online Learning (DAGGER)](notes/Dagger/Dagger.md) &mdash; *Ross et al.* [[mlr](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)]
 
