@@ -1,6 +1,10 @@
 # Papernotes
 
 ### Winter 2020
+* [Model-Free Imitation Learning with Policy Optimization](notes/modelFreeILwithPolicyOpt/modelFreeILwithPolicyOpt.md) &mdash; *Ho et al.* [[arXiv](https://arxiv.org/abs/1605.08478)]
+
+* [Apprenticeship Learning via Inverse Reinforcement Learning](notes/apprenticeshipLearningviaInverseRL/apprenticeshipLearningviaInverseRL.md) &mdash; *Abbeel and Nguyen* [[ICML](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
+
 * [Generative Adversarial Nets (GANs)](notes/GANs/GANs.md) &mdash; *Goodfellow et al.* [[NeurIPS](http://papers.nips.cc/paper/5423-generative-adversarial-nets)]
 
 * [A Reduction of Imitation Learning and Structured Prediction
