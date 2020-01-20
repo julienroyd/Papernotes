@@ -1,8 +1,7 @@
 # Papernotes
 
 ### Winter 2020
-* [SQIL: Imitation Learning via Reinforcement
-Learning with Sparse Rewards](notes/SQIL/SQIL.md) &mdash; *Reddy et al.* [[arXiv](https://arxiv.org/abs/1905.11108)]
+* [SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards](notes/SQIL/SQIL.md) &mdash; *Reddy et al.* [[arXiv](https://arxiv.org/abs/1905.11108)]
 
 * [Discriminator Actor Critic (DAC)](notes/DAC/DAC.md) &mdash; *Kostrikov et al.* [[arXiv](https://arxiv.org/abs/1809.02925)]
 
