@@ -1,13 +1,14 @@
 # Papernotes
 
 ### Winter 2020
-* [SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards](notes/SQIL/SQIL.md) &mdash; *Reddy et al.* [[arXiv](https://arxiv.org/abs/1905.11108)]
 
 * [**TODO:** Discriminator Actor Critic (DAC)](notes/DAC/DAC.md) &mdash; *Kostrikov et al.* [[arXiv](https://arxiv.org/abs/1809.02925)]
 
 * [**TODO:** Model-Free Imitation Learning with Policy Optimization](notes/modelFreeILwithPolicyOpt/modelFreeILwithPolicyOpt.md) &mdash; *Ho et al.* [[arXiv](https://arxiv.org/abs/1605.08478)]
 
 * [**TODO:** Apprenticeship Learning via Inverse Reinforcement Learning](notes/apprenticeshipLearningviaInverseRL/apprenticeshipLearningviaInverseRL.md) &mdash; *Abbeel and Nguyen* [[ICML](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
+
+* [SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards](notes/SQIL/SQIL.md) &mdash; *Reddy et al.* [[arXiv](https://arxiv.org/abs/1905.11108)]
 
 * [Generative Adversarial Nets (GANs)](notes/GANs/GANs.md) &mdash; *Goodfellow et al.* [[NeurIPS](http://papers.nips.cc/paper/5423-generative-adversarial-nets)]
 
