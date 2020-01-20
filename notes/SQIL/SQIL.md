@@ -3,7 +3,7 @@
 
 In this work, the authors present a novel, surprisingly simple algorithm for Imitation Learning that performs on par or better than GAIL without requiring the use of an adversarial framework to learn a cost function.
 
-**Setup:** The agent does not observe a reward signal, cannot query the expert and doesn't know the state transition dynamics.
+**Setup:** The agent does not observe a reward signal, cannot query the expert and doesn't know the state transition dynamics. However, the agent does have access to the environment (pretty common).
 
 ### Algorithm
 
@@ -25,9 +25,18 @@ The authors show that SQIL is equivalent to Behavioral Cloning that uses a regul
 
 Such a penalty helps to overcome state distribution shift. This regularisation term is important because:
 
-  1. It imposes a sparsity prior
+  1. It imposes a sparsity prior on the reward function
   2. It incorporates information about the state transition dynamics into the imitation learning objective
 
 ### Experiments
+
+They compare SQIL to BC and GAIL on both Mujoco and Atari environments. In their Atari experiments (discrete), SQIL-DQL outperforms BC and GAIL-DQL whereas in their Mujoco experiments (continuous) SQIL-SAC ourperforms BC and performs on par with GAIL-TRPO. They also show a comprehensive ablation study that is very interesting.
+
+#### Generalisation experiment
+
+Their first experiment is the one I found the most interesting (this is also mirrored in the ablation study). They evaluate how well the three algorithms can learn policies that generalise to new states unseen in the demonstrations. They do so by comparing their performance on an OpenAI gym racing game when the agent starts in a "normal" initial state (parallel to the track) with rollouts for which the agent is initialised perpendicular to the track (a situation unseen in training and/or demonstrations). SQIL in this case is able to recover and fall back to familiar states whereas BC and GAIL never recover.
+
+![](SQIL_fig2.png)
+
 
 
