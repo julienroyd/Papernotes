@@ -10,7 +10,7 @@ In this work, the authors present a new imitation learning algorithm that allows
 If only provided with expert samples (not necessarily full trajectories) and no reward signal, more traditional approaches would be:
 
 * **Behavioral Cloning**: Directly learns to output the same actions as the expert from the corresponding states using supervised learning. This method tends to require a large amount of expert data.
-* **Inverse RL followed by RL**: IRL is tasked with finding a cost function under which the expert is uniquely optimal, which is afterwards used to train a new agent using reinforcement learning on that leanred cost function. This method is inherently expansive as it solves an RL task repeatedly in its inner loop. 
+* **Inverse RL followed by RL**: IRL is tasked with finding a cost function under which the expert is uniquely optimal, which is afterwards used to train a new agent using reinforcement learning on that learned cost function. This method is inherently expensive as it solves an RL task repeatedly in its inner loop. 
 
 GAIL instead allows to *directly* learn a policy from expert data, with no middle-step. It does so by replacing the generator in the GAN framework with an RL-agent which is trained to fit distributions of states and actions that define the expert's behavior. The discriminator is trained to guess if the state-action sample comes from the agent's or expert's distribution.
 
