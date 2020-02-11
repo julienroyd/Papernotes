@@ -1,7 +1,7 @@
 # Generative Adversarial Imitation Learning (GAIL)
 #### Ho, Ermon (2019)
 
-In this work, the authors present a new imitation learning that allows to learn a policy from expert samples only (without access to the expert policy) that is very similar to the GAN framework wildly used for unsupervised generative tasks.
+In this work, the authors present a new imitation learning algorithm that allows to learn a policy from expert samples only (without access to the expert policy) that is very similar to the GAN framework wildly used for unsupervised generative tasks.
 
 **Imitation Learning**: The problem of learning to perform a task from expert demonstrations.
 
