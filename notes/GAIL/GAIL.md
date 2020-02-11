@@ -22,7 +22,7 @@ The cost function is given by:
 
 GAIL alternates Agent and Discriminator learning steps:
 * **Discriminator**: Adam gradient step to *increase* the cost function w.r.t to D 
-* **Agent**: TRPO step to *decrease* the cost function w.r.t to PI
+* **Agent**: TRPO step to *decrease* the cost function w.r.t to \pi
 
 ### Experiments
 
