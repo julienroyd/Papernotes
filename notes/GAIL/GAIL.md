@@ -14,9 +14,16 @@ If only provided with expert samples (not necessarily full trajectories) and no 
 
 GAIL instead allows to *directly* learn a policy from expert data, with no middle-step. It does so by replacing the generator in the GAN framework with an RL-agent which is trained to fit distributions of states and actions that define the expert's behavior. The discriminator is trained to guess if the state-action sample comes from the agent's or expert's distribution.
 
-### Training
+### Theoretical contributions
 
-The cost function is given by:
+The authors define a general view of the IRL procedure that include a regulariser \psi from which IRL can be seen as a dual optimisation procedure of an occupancy measure matching problem. They show that different choices of \psi lead to different previously known imitation learning algorithms:
+
+* a constant regulariser \psi leads to exact occupancy measure matching (impractical in practice)
+* infinite regulariser for cost functions outside a pre-defined family leads to entropy-regularized apprenticeship learning
+
+### Algorithm
+
+From that regularized IRL framework, they derive GAIL. The cost function is given by:
 
 ![](gail_objective.png)
 
