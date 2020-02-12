@@ -23,7 +23,7 @@ The authors define a general view of the IRL procedure that include a regularise
 
 ### Algorithm
 
-From that regularized IRL framework, they derive GAIL. The cost function is given by:
+The goal of the paper is to provide an algorithm that both scales to large state-action spaces and can imitate arbitrarily complex expert behaviors. From their regularized IRL framework, they derive GAIL. The cost function is given by:
 
 ![](gail_objective.png)
 
