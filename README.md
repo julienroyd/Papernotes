@@ -2,6 +2,10 @@
 
 ### Winter 2020
 
+* [**TODO:** Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization (GCL)](notes/GCL/GCL.md) &mdash; *Finn et al.* [[arXiv](https://arxiv.org/abs/1603.00448)]
+
+* [**TODO:** Learning Robust Rewards with Adversarial Inverse Reinforcement Learning (AIRL)](notes/AIRL/AIRL.md) &mdash; *Fu et al.* [[arXiv](https://arxiv.org/abs/1710.11248)]
+
 * [**TODO:** Discriminator Actor Critic (DAC)](notes/DAC/DAC.md) &mdash; *Kostrikov et al.* [[arXiv](https://arxiv.org/abs/1809.02925)]
 
 * [**TODO:** Apprenticeship Learning via Inverse Reinforcement Learning](notes/apprenticeshipLearningviaInverseRL/apprenticeshipLearningviaInverseRL.md) &mdash; *Abbeel and Nguyen* [[ICML](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
